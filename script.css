@@ -79,15 +79,15 @@ h1{
     transition: all 1000ms ease-in-out;
 }
 
-/* .split.left:hover{
+.split.left:hover{
     width: 75%;
 }
 
 .split.right:hover {
     width: 75%;
-} */
+} 
 
-.split.right::before {
+/*.split.right::before {
     position: absolute;
     content: '';
     width: 100%;
@@ -116,3 +116,4 @@ h1{
 .hover-right.left:hover{
     z-index: 3;
 }
+*/
